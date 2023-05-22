@@ -1,0 +1,7 @@
+date,rain_probability_in_0_days,rain_probability_in_1_days,rain_probability_in_2_days,rain_probability_in_3_days,rain_probability_in_4_days,rain_probability_in_5_days,rain_probability_in_6_days,did_it_rain
+2023-05-22,0%,0%,3%,0%,0%,2%,13%,None
+2023-05-21,0%,0%,0%,3%,1%,1%,2%,0
+2023-05-20,0%,0%,0%,2%,5%,4%,3%,0
+2023-05-19,0%,0%,0%,0%,2%,5%,7%,0
+2023-05-18,14%,1%,0%,0%,0%,4%,5%,0
+2023-05-17,26%,14%,3%,1%,0%,0%,3%,1
